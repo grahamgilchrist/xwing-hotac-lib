@@ -19,3 +19,12 @@ Currently in use by:
 
 ### Available modules
 TBC
+
+## Development
+
+### Releases
+To release a new version, follow these steps
+
+* Generate new version number following semver rules
+* Update `changelog.md` and `package.json` with version number and summary of changes
+* Tag git repo with version number
