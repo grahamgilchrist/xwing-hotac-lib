@@ -1,6 +1,6 @@
 {
   "name": "xwing-hotac-lib",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Library of data and modules for hotac related software",
   "main": "index.js",
   "repository": {
