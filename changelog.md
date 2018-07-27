@@ -1,5 +1,5 @@
-## 0.1.1
-* Add missing lodahs dependency
+## 0.1.2
+* Add missing lodash dependency
 
 ## 0.1.1
 * Fix npm install version number
